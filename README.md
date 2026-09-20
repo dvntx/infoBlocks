@@ -1,6 +1,8 @@
 # infoBlocks
-📦 InfoBlock (PowerNukkitX Plugin)
-InfoBlock is a lightweight and efficient plugin designed for PowerNukkitX servers that tracks and maintains a detailed history of blocks throughout your world, recording exactly who interacted with them, what action was performed, and when. It is an essential tool for server administrators and moderators to quickly investigate griefing, theft, or block changes directly in-game.  
+📦 InfoBlock
+ (PowerNukkitX Plugin)
+InfoBlock is a lightweight and efficient plugin designed for PowerNukkitX servers that tracks and maintains a detailed history of blocks throughout your world, recording exactly who interacted with them, what action was performed, and when. 
+It is an essential tool for server administrators and moderators to quickly investigate griefing, theft, or block changes directly in-game.  
 
 ✨ Key Features
 
@@ -24,8 +26,13 @@ Command: ⁠/infoblock⁠ (Aliases: ⁠/infoblocks⁠, ⁠/ib⁠) 
 Permission: ⁠infoblock.use⁠ (Required to run the command and use the inspector mode)  
 
 ⚙️ Configuration (⁠config.yml⁠)
+
 The plugin features a flexible config file to adjust limits and behavior:
+
  ⁠max-history-per-block⁠: Maximum history entries retained per block position.  
+
  ⁠autosave-minutes⁠: Interval in minutes for auto-saving history to disk.  
+
  ⁠max-lines-shown⁠: Maximum number of recent history lines displayed in chat per inspection.  
+
  ⁠log-container-opens⁠: Enable or disable logging when players open container inventories.
