@@ -1,5 +1,7 @@
 # infoBlocks
+
 📦 InfoBlock
+
  (PowerNukkitX Plugin)
 InfoBlock is a lightweight and efficient plugin designed for PowerNukkitX servers that tracks and maintains a detailed history of blocks throughout your world, recording exactly who interacted with them, what action was performed, and when. 
 It is an essential tool for server administrators and moderators to quickly investigate griefing, theft, or block changes directly in-game.  
