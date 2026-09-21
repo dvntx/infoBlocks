@@ -1,0 +1,18 @@
+# Configura opciones de InfoBlock
+
+# Maximum number of history records saved per block or chest.
+# When exceeded, the oldest record for that block is removed.
+max-history-per-block: 50
+
+# How often (in minutes) the history is automatically saved to disk.
+# Set to 0 to disable autosave (history will only be
+# saved when the server or plugin shuts down).
+autosave-minutes: 5
+
+# Maximum number of history lines shown when a
+# player inspects a block in inspector mode.
+max-lines-shown: 10
+
+# If true, in addition to logging who placed or broke a block,
+# it also logs who opens chests, furnaces, barrels, etc.
+log-container-opens: true
