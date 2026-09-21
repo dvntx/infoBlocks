@@ -17,7 +17,6 @@
     </properties>
 
     <dependencies>
-        <!-- PowerNukkitX Server desde la carpeta libs local -->
         <dependency>
             <groupId>org.powernukkitx</groupId>
             <artifactId>server</artifactId>
